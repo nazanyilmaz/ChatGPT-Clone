@@ -7,5 +7,6 @@
 
 
 
-![Screen Recording 2023-12-10 at 06 40 18 PM](https://github.com/nazanyilmaz/chatGBT-clone/assets/147782488/692b6859-4dc3-4f91-a513-40a3d7a72a45)
+![Screen Recording 2023-12-10 at 06 40 18 PM](https://github.com/nazanyilmaz/ChatGPT-Clone/assets/147782488/46c88626-88aa-4cef-adfd-89581d7ed5de)
+
 
