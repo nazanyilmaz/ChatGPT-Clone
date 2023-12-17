@@ -7,5 +7,5 @@
 
 
 
-
+![Screen Recording 2023-12-10 at 06 40 18 PM](https://github.com/nazanyilmaz/chatGBT-clone/assets/147782488/692b6859-4dc3-4f91-a513-40a3d7a72a45)
 
